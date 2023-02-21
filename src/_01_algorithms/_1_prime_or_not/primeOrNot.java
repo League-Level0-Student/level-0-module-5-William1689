@@ -7,7 +7,7 @@ public class primeOrNot {
 int divisor = 2;
 String primeString = JOptionPane.showInputDialog("Give me a number");
 int primeNum = Integer.parseInt(primeString);
-while(divisor>17) {
+while(divisor>17) { 
 	
 }
 
