@@ -21,7 +21,7 @@ public class IntroToMethods {
 	 * Instructions
 	 * ------------
 	 * RUN THE CODE
-	 * LOOK AT THE CODE BELOW
+ 	 * LOOK AT THE CODE BELOW
 	 * FIGURE OUT THE 3 PARTS TO EACH METHOD
 	 */
 	public static void main(String[] args) {

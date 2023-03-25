@@ -13,14 +13,11 @@ public class loopGuanlet {
 //else {
 	//System.out.println(i + " is odd");
 //}
-//for(int i = 0; i<778; i+=7)
-for(int i = 1; i<24; i++)	
-                                                                                               
-	
+//for(int i = 0; i<7
+//for(int i = 2013; i<2024; i++)	
+//System.out.println("In "+  i +" I was "+(i-2012));
+for(int i = 1; i<3; i++) {
 
-System.out.println("In");
-		
-		
 		
 		
 	
