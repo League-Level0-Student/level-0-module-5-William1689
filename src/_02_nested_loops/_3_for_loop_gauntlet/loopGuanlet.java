@@ -15,35 +15,27 @@ public class loopGuanlet {
 //}
 //for(int i = 0; i<7
 //for(int i = 2013; i<2024; i++)	
-//System.out.println("In "+  i +" I was "+(i-2012));
-for(int i = 1; i<3; i++) {
+//System.out.println("In "+  i +" I was "+(i-2012));			
+		
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
-		
-		
 	
 	
 	
+ 	
 	
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+  	
 	
 	
 	
