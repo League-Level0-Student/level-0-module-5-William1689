@@ -14,7 +14,20 @@ public class Calculator {
 				JOptionPane.INFORMATION_MESSAGE, null, new String[] { "divide", "multiply", "subtract", "add" }, null);
 
 		// 3) Call the correct method depending on what option the user chooses
-		
+		int answer = 0;
+		if(task==3) {
+			answer = add(number1, number2);
+		}
+		else if(task==2) {
+			answer = subtract(number1, number2);
+		}
+			else if(task==1) {
+				answer = multiply(number1, number2);
+			}
+			else if(task==0) {
+				answer = divide(number1, number2);
+			}
+		JOptionPane.showMessageDialog(null,result(answer) );
 		// 4) Call the result() method and put the answer in a pop-up
 	}
 	
@@ -28,4 +41,38 @@ public class Calculator {
 	//		EX: "Your answer is " + number;
 
 	
+
+
+
+
+
+
+private static int add(int i , int n) {
+	i+=n;
+return i;
 }
+private static int subtract(int i , int n) {
+	i-=n;
+return i;
+}
+private static int multiply(int i, int n) {
+	i*=n;
+return i;
+}
+private static int divide(int i, int n) {
+ i/=n;
+ return i;
+}
+private static String result(int i) {
+return "Your answer is " + i;
+}
+
+
+
+
+
+
+
+
+}
+
